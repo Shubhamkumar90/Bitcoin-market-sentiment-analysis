@@ -12,9 +12,6 @@ The goal is to understand how market psychology influences trading activity, ris
 - Identify whether sentiment can serve as a **predictor of trader success** or if **discipline and strategy** dominate.  
 
 ---
-
-
-
 ## Key Findings
 
 - **Trader activity and trade size** increase during *Greed* and *Extreme Greed* periods, showing stronger participation and confidence.  
@@ -24,10 +21,9 @@ The goal is to understand how market psychology influences trading activity, ris
   - Spearman correlation = **0.040** (p = 0.384)  
 - Both tests show **no statistically significant relationship** ($p > 0.05$).  
 - Therefore, the **null hypothesis ($H_0: \rho = 0$)** is **not rejected** — daily sentiment does not directly predict trader profitability.  
-- A small subset of traders **consistently outperform regardless of sentiment**, highlighting the value of **strategy and discipline** over emotional bias.  
+- A small subset of traders **consistently outperform regardless of sentiment**, highlighting the value of **strategy and discipline** over emotional bias.
 
 ---
-
 ## Methods
 1. **Data Sources**
    - Bitcoin market sentiment from the **Fear–Greed Index**
@@ -43,7 +39,6 @@ The goal is to understand how market psychology influences trading activity, ris
    - $H_1$: Significant relationship exists ($\rho \neq 0$)  
 
 ---
-
 ## Conclusion
 
 This analysis explored the relationship between **Bitcoin market sentiment** and **trader performance** using **Hyperliquid trading data** and the **Fear–Greed Index**.
